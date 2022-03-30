@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Starz</string>
+    <string name="splash_image_description">Starz app icon</string>
+    <string name="img_desc_star_face">stars face</string>
+    <string name="gender_male">Homme</string>
+    <string name="fullname">firstname lastname</string>
+    <string name="city">City</string>
+    <string name="gender_icon">gender icon</string>
+    <string name="add">add</string>
+    <string name="cancel">annuler</string>
+    <string name="firstname">Prenom: </string>
+</resources>
